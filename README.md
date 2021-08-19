@@ -3,9 +3,13 @@
 I try a quick rust scraping, for learning rust and also try this beautifull language
 
 
-'''zsh
+
+```zsh
+cd <YourFolder>
+git clone https://github.com/Maxvyr/rust-scraping.git
+cd rust-scraping/
 cargo run
-'''
+```
 
 ## Tips
 
