@@ -15,9 +15,9 @@ cargo run
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A72UVP8)
 
-## Crypto Tips(ETH)
+## Crypto Tips
 
-![https://i.imgur.com/XpF2vgw.png](https://i.imgur.com/XpF2vgw.png)
+![https://i.imgur.com/4bS8l7R.png](https://i.imgur.com/4bS8l7R.png)
 
 ## Contact Me
 
