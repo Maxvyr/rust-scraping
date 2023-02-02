@@ -6,7 +6,7 @@ use scraper::{Html, Selector};
 
 fn main() {
     let url = "https://www.kubii.fr/cartes-raspberry-pi/2771-nouveau-raspberry-pi-4-modele-b-2gb-0765756931175.html?search_query=Pi4&results=111";
-    println!("Welcome the data I'm going to get is :");
+    println!("Welcome, the price of a raspebbty-pi 4 is :");
     scrape_price_data(url);
 }
 
